@@ -1,0 +1,14 @@
+2019/04/30 21:37:30 [pickClientAndServer] Accept 5 servers.
+2019/04/30 21:37:49 received message: BEGIN
+2019/04/30 21:37:49 [handleLlistenAll] Enter Switch: BEGIN
+2019/04/30 21:37:49 [sendClient] Send msg to client:  TID 1
+2019/04/30 21:37:51 received message: BEGIN
+2019/04/30 21:37:51 [handleLlistenAll] Enter Switch: BEGIN
+2019/04/30 21:37:51 [sendClient] Send msg to client:  TID 2
+2019/04/30 21:37:53 received message: BEGIN
+2019/04/30 21:37:53 [handleLlistenAll] Enter Switch: BEGIN
+2019/04/30 21:37:53 [sendClient] Send msg to client:  TID 3
+2019/04/30 21:38:12 received message: graph 2 3
+2019/04/30 21:38:22 received message: graph 1 2
+2019/04/30 21:38:27 received message: graph 3 1
+2019/04/30 21:38:27 received message: graph 2 3

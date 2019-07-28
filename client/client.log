@@ -1,0 +1,17 @@
+2019/04/30 21:37:49 [sendCoordinator] Send msg to coor: BEGIN
+2019/04/30 21:37:49 [listenCoordinator] Get msg from Coordinator:  TID 1
+2019/04/30 21:37:49 Set TID successfully!
+2019/04/30 21:37:49 send to server:  BEGIN 1
+2019/04/30 21:37:49 send to server:  BEGIN 1
+2019/04/30 21:37:49 send to server:  BEGIN 1
+2019/04/30 21:37:49 send to server:  BEGIN 1
+2019/04/30 21:37:49 send to server:  BEGIN 1
+2019/04/30 21:37:49 Send msg to Server:  BEGIN 1
+2019/04/30 21:37:56 send to server:  SET A.X 1 1
+2019/04/30 21:38:27 send to server:  SET A.Z 6 1
+2019/04/30 21:38:54 [listenCoordinator] wrong:  EOF
+2019/04/30 21:38:55 [listenServer] wrong:  EOF
+2019/04/30 21:38:56 [listenServer] wrong:  EOF
+2019/04/30 21:38:56 [listenServer] wrong:  EOF
+2019/04/30 21:38:57 [listenServer] wrong:  EOF
+2019/04/30 21:38:57 [listenServer] wrong:  EOF
