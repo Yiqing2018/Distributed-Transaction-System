@@ -40,6 +40,7 @@ At the very beginning, client would send **"openTransaction"** to the coordinato
 
 While client receives operation command from user input, like  **"SET A.X 999"**, it would send the operation msg and TID to every server.
 
+![](http://ww1.sinaimg.cn/large/006tNc79ly1g5frb038c5j30l00ewtbh.jpg)
 
 **A.Commit Operation**  
 
@@ -127,4 +128,5 @@ coordinator would choose to abort the Transaction with the lowest TID. In the be
 <p align="center">
     <img width="600" src="http://ww3.sinaimg.cn/large/006tNc79ly1g5fqvo2pdqj30fz09hdge.jpg">
 </p>
+
 *** 
