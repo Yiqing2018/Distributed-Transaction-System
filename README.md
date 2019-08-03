@@ -123,7 +123,7 @@ The coordinator will preserve a global waif-for graph. Whenever coordinator rece
 In this scenario, there is a circle in the global wait-for graph, in other words, these transactions caused a deadlock.
 
 **Abort Strategy**  
-coordinator would choose to abort the Transaction with the lowest TID. In the below figure, the transaction with color red will be aborted.
+coordinator would choose to abort the Transaction with the lowest TID. In the below figure, the transaction marked in red will be aborted.
 <p align="center">
     <img width="600" src="http://ww3.sinaimg.cn/large/006tNc79ly1g5fqvo2pdqj30fz09hdge.jpg">
 </p>
